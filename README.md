@@ -1,4 +1,4 @@
-# Hybric-Electric-Vehicles
+# Hybrid-Electric-Vehicles
 Simulation of performance and efficiency of a hybrid electric vehicle
 
 Contents
